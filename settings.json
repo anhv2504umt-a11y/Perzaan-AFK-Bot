@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "iamMiuuuu.aternos.me",
+    "ip": "cherubfish.aternos.host:49020",
     "port": 49020,
     "version": "1.21.1"
   },
